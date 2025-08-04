@@ -19,7 +19,7 @@ The BackOff part indicates that Kubernetes will keep trying to pull the image, w
 Kubernetes raises the delay between each attempt until it reaches a compiled-in limit, which is 300 seconds (5 minutes).
 
 
-## Day-02
+##   Day-02
 
 ### CrashLoopBackOff
 
